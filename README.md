@@ -21,5 +21,4 @@ HTML | CSS | JavaScript | GitHub
 Coming Soon!
 
 ## Contact
-Email: your-business-email@gmail.com
-LinkedIn: Your LinkedIn Profile
+Email: patilmayuri1801@gmail.com
